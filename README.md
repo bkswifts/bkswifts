@@ -1,6 +1,6 @@
 ## Hi there! I'm Bradley, also known as BradsTheDeveloper.
-- I'm a (soon to be) Computer Science A-Level student from England.
-- I'm currently trying to (re)learn HTML and JavaScript, to use with Svelte.
+- I'm a Computer Science A-level student from England.
+- I'm currently practising my skills in HTML, CSS and JavaScript, to use with Svelte.
 - I'm using Svelte to build my first serious project, a productivity app called hypetasks.
 - I am fairly confident with Python (from what I have learnt at school).
 
